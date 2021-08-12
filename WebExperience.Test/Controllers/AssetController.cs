@@ -1,11 +1,13 @@
-﻿using GeneralKnowledge.Test.App.Tests;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Net;
 using System.Web.Http;
 using WebExperience.Test.Models;
+using System.Web.Http.Cors;
 
 namespace WebExperience.Test.Controllers
 {
+    [RoutePrefix("api/asset")]
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class AssetController : ApiController
     {
         // TODO
@@ -20,14 +22,17 @@ namespace WebExperience.Test.Controllers
             repository = new AssetRepository();
         }
         [HttpGet]
-        public IList<Asset> GetAllAsset()
+        [Route("AllAsset")]
+        public IList<asset> GetAllAsset()
         {
-            return repository.GetAll();
+            var allData = repository.GetAll();
+            return allData;
         }
         [HttpGet]
-        public Asset GetAsset(string id)
+        [Route("FindAsset")]
+        public asset GetAsset(string id)
         {
-            Asset asset = repository.Get(id);
+            asset asset = repository.Get(id);
             if (asset == null)
             {
                 throw new HttpResponseException(HttpStatusCode.NotFound);
@@ -35,19 +40,28 @@ namespace WebExperience.Test.Controllers
             return asset;
         }
         [HttpPost]
-        public Asset PostAsset(Asset asset)
+        [Route("SaveAsset")]
+        public asset PostAsset(asset asset)
         {
             asset = repository.Add(asset);
             return asset;
         }
         [HttpPut]
-        public void PutAsset(string id, Asset asset)
+        [Route("UpdateAsset")]
+        public asset PutAsset( asset asset)
         {
-            asset.AssetId = id;
-            if (!repository.Update(asset))
+           // asset.AssetId = id;
+            if (repository.Update(asset)==null)
             {
                 throw new HttpResponseException(HttpStatusCode.NotFound);
             }
+            return asset;
+        }
+        [HttpDelete]
+        [Route("Delete")]
+        public asset DeleteAsset(string id)
+        {
+            return  repository.Remove(id);
         }
     }
 }

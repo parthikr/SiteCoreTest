@@ -1,4 +1,3 @@
-C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\obj\Debug\WebExperience.Test.csprojResolveAssemblyReference.cache
 C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\WebExperience.Test.dll.config
 C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\WebExperience.Test.dll
 C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\WebExperience.Test.pdb
@@ -59,14 +58,205 @@ C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_202
 C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Web.WebPages.Razor.xml
 C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\obj\Debug\WebExperience.Test.dll
 C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\obj\Debug\WebExperience.Test.pdb
-C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\libglib-2.0-0.dll
-C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\libgobject-2.0-0.dll
-C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\libvips-42.dll
-C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\GeneralKnowledge.Test.App.exe
-C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\CsvHelper.dll
-C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\NetVips.dll
 C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Buffers.dll
-C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\GeneralKnowledge.Test.App.pdb
-C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\CsvHelper.xml
-C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\NetVips.xml
-C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Buffers.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\AutoMapper.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.Options.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Collections.NonGeneric.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.ComponentModel.Primitives.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.IO.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Linq.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Linq.Expressions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Reflection.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Runtime.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Runtime.Extensions.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Runtime.InteropServices.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Text.Encodings.Web.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\AutoMapper.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.Options.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\System.Text.Encodings.Web.xml
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\Swashbuckle.Core.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\WebActivatorEx.dll
+C:\Users\parth\Desktop\wetransfer_sitecore-net-developer-assessment-2020-pdf_2021-08-03_0458\dotNET developer (1)\WebExperience.Test\bin\WebExperience.Test.XML
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\WebExperience.Test.dll.config
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\WebExperience.Test.XML
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\WebExperience.Test.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\WebExperience.Test.pdb
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Antlr3.Runtime.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\AutoMapper.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\EntityFramework.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\EntityFramework.SqlServer.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.Options.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Newtonsoft.Json.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Owin.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Swashbuckle.Core.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Buffers.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Collections.NonGeneric.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.ComponentModel.Primitives.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.IO.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Linq.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Linq.Expressions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Net.Http.Formatting.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Reflection.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Runtime.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Runtime.Extensions.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Runtime.InteropServices.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Text.Encodings.Web.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Helpers.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Http.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Http.WebHost.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Mvc.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Optimization.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Razor.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.WebPages.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\WebActivatorEx.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\WebGrease.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Antlr3.Runtime.pdb
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\AutoMapper.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\EntityFramework.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\EntityFramework.SqlServer.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.Options.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\Newtonsoft.Json.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Net.Http.Formatting.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Text.Encodings.Web.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Helpers.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Http.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Http.WebHost.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Mvc.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Optimization.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Razor.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.WebPages.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\obj\Debug\WebExperience.Test.csprojResolveAssemblyReference.cache
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\obj\Debug\WebExperience.Test.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\obj\Debug\WebExperience.Test.pdb
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Cors.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Http.Cors.dll
+C:\Users\parth\Desktop\dotNETdeveloper\WebExperience.Test\bin\System.Web.Http.Cors.xml

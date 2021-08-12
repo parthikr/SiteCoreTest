@@ -1,0 +1,58 @@
+<div class="modal fade show" [ngStyle]="{'display':showForm ? 'block' : ''}" id="exampleModalCenter" tabindex="-1"
+  role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLongTitle"><span>{{isUpdate ? 'Update' : 'Add New'}}</span> Assert</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close" (click)="handleClose()">
+        <span aria-hidden="true">&times;</span>
+      </button>
+      </div>
+      <div class="modal-body">
+        <form [formGroup]="form">
+          <input type="hidden" formControlName="AssetId">
+          <div class="form-group">
+            <small>* Filename</small>
+            <input type="text" formControlName="file_name" class="form-control form-control-sm" placeholder="Enter Filename" required>
+            <small class="text-danger" *ngIf="(form.get('file_name').dirty || form.get('file_name').touched) && form.get('file_name').errors?.required" >
+              Filename is required
+            </small>
+          </div>
+          <div class="form-group">
+            <small  class="form-label">* MIME Type</small>
+            <input type="text" formControlName="mime_type" class="form-control form-control-sm" placeholder="Enter MIME Type">
+            <small *ngIf="(form.get('mime_type').dirty || form.get('mime_type').touched) && form.get('mime_type').errors?.required"  class="text-danger">
+              MIME-Type is required
+            </small>
+          </div>
+          <div class="form-group">
+            <small>* Created By</small>
+            <input type="text" formControlName="created_by" class="form-control form-control-sm" placeholder="Enter Created By">
+            <small *ngIf="(form.get('created_by').dirty || form.get('created_by').touched) && form.get('created_by').errors?.required" class="text-danger">
+              Created By is required
+            </small>
+          </div>
+          <div class="form-group">
+            <small>* Email address</small>
+            <input type="email" formControlName="email" class="form-control form-control-sm" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+            <small *ngIf="(form.get('email').dirty || form.get('email').touched) && form.get('email').errors?.required"class="text-danger">
+              Email is required
+            </small>
+          </div>
+          <div class="form-group">
+            <small>Country</small>
+            <input type="text" formControlName="country" class="form-control form-control-sm" placeholder="Enter Country">
+          </div>
+          <div class="form-group">
+            <small>Description</small>
+            <input type="text" formControlName="description" class="form-control form-control-sm" placeholder="Enter Description">
+          </div>
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal" (click)="handleClose()">Close</button>
+        <button type="button" (click)="saveChanges()" class="btn btn-primary"> <span>{{isUpdate ? 'Update' : 'Save'}}</span> changes</button>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,42 @@
+<nav class="navbar navbar-light bg-primary">
+  <a class="navbar-brand text-white" href="#">Welcome</a>
+</nav>
+
+<div class="container-fluid">
+  <div class="block p-1 text-right">
+    <button type="button" (click)="showForm = !showForm;" class="btn btn-primary btn-sm">
+      	<span>&#43;</span> Add</button>
+  </div>
+  <table class="table table-bordered table-hover">
+    <thead class="text-center">
+      <tr>
+        <th>Filename</th>
+        <th>MIME-Type</th>
+        <th>Created By</th>
+        <th>Email</th>
+        <th>Country</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <ng-container *ngFor="let item of dataSource;let i =index">
+        <tr>
+          <td>{{item.file_name}}</td>
+          <td>{{item.mime_type}}</td>
+          <td>{{item.created_by}}</td>
+          <td>{{item.email}}</td>
+          <td>{{item.country}}</td>
+          <td class="text-center">
+            <span class="btn btn-sm btn-info" (click)="update(item)">Edit</span>&nbsp;
+            <span (click)="delete(item.AssetId)" class="btn btn-sm btn-danger">Delete</span>
+          </td>
+        </tr>
+      </ng-container>
+    </tbody>
+  </table>
+</div>
+
+<div *ngIf="showForm" class="back-drop"></div>
+
+<app-add-assert [showForm]="showForm" [updatingData]="updatingData" [isUpdate]="isUpdate"
+  (onCloseForm$)="handleCloseForm($event)"></app-add-assert>

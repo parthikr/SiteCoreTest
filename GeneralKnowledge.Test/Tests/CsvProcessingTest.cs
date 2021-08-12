@@ -6,6 +6,8 @@ using System.Linq;
 using System.IO;
 using CsvHelper.Configuration;
 using System.Collections.Generic;
+using AutoMapper;
+using System.Data.Entity.Validation;
 
 namespace GeneralKnowledge.Test.App.Tests
 {
@@ -16,6 +18,8 @@ namespace GeneralKnowledge.Test.App.Tests
     {
         static string filePath = @"../../Resources/AssetImport.csv";
         static IList<Asset> _assets;
+        static AssetDBEntities dbContext = new AssetDBEntities();
+
         public void Run()
         {
             // TODO
@@ -43,8 +47,25 @@ namespace GeneralKnowledge.Test.App.Tests
             using (var csvReader = new CsvReader(reader, CultureInfo.CurrentCulture))
             {
                 csvReader.Configuration.RegisterClassMap<AssetMap>();
-                var bookList = csvReader.GetRecords<Asset>().ToList();
-                _assets = bookList;
+                var assetList = csvReader.GetRecords<Asset>().ToList();
+                _assets = assetList;
+                var config = new MapperConfiguration(cfg => cfg.CreateMap<Asset, asset>()
+                            .ForMember(dest => dest.AssetId, act => act.MapFrom(src => src.AssetId)));
+                var mapper = new Mapper(config);
+                var assetEntity = mapper.Map<List<asset>>(assetList);
+                try
+                {
+                    //uncomment below for db save demo
+                    //commented due to lack of duplicate validation 
+                   // dbContext.assets.RemoveRange(assetEntity);
+                    //dbContext.assets.AddRange(assetEntity);
+                    //dbContext.SaveChanges();
+                }
+                catch (Exception e)
+                {
+                   
+                    throw e;
+                }
             }
             return _assets;
         }
